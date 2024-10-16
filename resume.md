@@ -9,8 +9,13 @@ www.linkedin.com/in/nicholas-m-boden
 Personable and responsible student with a 3.96 unweighted GPA and excellent time management skills seeking internship in computer science.
 
 EDUCATION
+
+Northeastern University
+BS in Computer Science + Mathematics
+August 2024 - Anticipated Graduation May 2028
+
 Lincoln-Sudbury Regional High School – High School Diploma
-September 2020 - Anticipated graduation June 2024
+September 2020 - June 2024
 3.96 unweighted GPA 
 SAT score 1600 (November 2022), ACT score 36 (December 2022).
 2024 National Merit Scholarship Finalist
@@ -18,7 +23,7 @@ SAT score 1600 (November 2022), ACT score 36 (December 2022).
 LS Scholar all semesters
 
 Relevant coursework: AP Computer Science Principles (Score: 5), JAVA Programming, Intro to Programming, Game Programming,
- Graphic Design, Creative Computing, AP Calculus BC, AP Physics C-Mechanics.
+ Graphic Design, Creative Computing, AP Calculus BC, AP Physics C-Mechanics, Fundamentals of CS, Discrete Structures.
 
 EXPERIENCE
 Beacon Interactive Systems – Intern
