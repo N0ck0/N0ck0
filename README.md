@@ -1,3 +1,3 @@
 Hi, I'm Nicholas! I have a passion for building scalable, impactful software. I bring strong technical fundamentals combined with real-world experience developing production frameworks. I thrive on solving difficult problems across the full stack, from low-level systems optimization to user-facing applications, and I'm particularly drawn to infrastructure where I can leverage both my mathematical and technical skills. I aim to build technology that operates at scale while continuously deepening my expertise!
 
-Visit my personal website at [https://n0ck0.github.io/]([url](https://n0ck0.github.io/))
+Visit my personal website at [https://n0ck0.github.io/](https://n0ck0.github.io/)
